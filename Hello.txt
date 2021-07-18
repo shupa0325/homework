@@ -1,8 +1,12 @@
+git init 初始化
 
-bbccdzxcvxzcvddeefadf
+git status 目前的板控未提交的檔案狀態
+
+git add 把指定檔案加入緩存區
+
+git commit -m "{commit message}" 提交目前緩存區的資料為一筆commit
+
+git log 查看你目前的分支的commit紀錄
 
 
-asdzcxvcxvfdsf
 
-
-asdfdasdfsdfasfds
